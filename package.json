@@ -1,0 +1,20 @@
+{
+  "name": "new-protractor",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jasmine": "^3.5.9",
+    "@types/jasminewd2": "^2.0.8",
+    "@types/node": "^13.9.1",
+    "jasmine": "^3.5.0",
+    "protractor": "^5.4.3",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.3"
+  }
+}
